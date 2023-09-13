@@ -1,2 +1,5 @@
 ***Salut***
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=t2glh70ncjaw3xxwncs01xm96&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=t2glh70ncjaw3xxwncs01xm96&redirect=true)
+![view](https://gitwar.herokuapp.com/badge?username=AntoineSP01&color=blue)
+dd
+
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AntoineSP01)](https://github.com/anuraghazra/github-readme-stats)
