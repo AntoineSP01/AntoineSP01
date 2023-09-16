@@ -3,18 +3,22 @@ Etudiant en développement web
 
 
 ## À propos de moi
-Je me nomme Antoine Schmerber-Perraud et je suis étudiant en 2ème année de Coding et Digital Innovation à l'IIM. J'aime beaucoup coder, ça me permet d'être dans ma bulle et c'est plutot cool de coder des heures sans être dérangé. J'aimerai devenir dévellopeur full stack pour le moment mais je ne me ferme aucune porte et je suis ouvert à tout ce que je fvais découvrir pendant les prochaines années. 
-<div style="margin-top: 70px;"></div>
+Je me nomme Antoine Schmerber-Perraud et je suis étudiant en 2ème année de Coding et Digital Innovation à l'IIM. J'aime beaucoup coder, ça me permet d'être dans ma bulle et c'est plutot cool de coder des heures sans être dérangé. J'aimerai devenir dévellopeur full stack pour le moment mais je ne me ferme aucune porte et je suis ouvert à tout ce que je fvais découvrir pendant les prochaines années.
 
-<p style="text-align: center; margin-bottom: 70px;">
+[&nbsp;&nbsp;](#)
+
+
+<p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=ANtoineSP01&show_icons=true&theme=radical" alt="Statistiques GitHub" />
 </p>
+
+[&nbsp;&nbsp;](#)
 
 
 
 ## 🚀 Technologies & Langages
 
-<div style="text-align: center; margin-bottom: 70px;">
+<div align="center">
 
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -24,16 +28,21 @@ Je me nomme Antoine Schmerber-Perraud et je suis étudiant en 2ème année de Co
 
 </div>
 
+[&nbsp;&nbsp;](#)
+
+
 
 ## 🛠️ Outils
 
-<div style="text-align: center; margin-bottom: 70px;">
+<div align="center">
 
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=Github&logoColor=white" alt="Github" />
   
 </div>
+
+[&nbsp;&nbsp;](#)
 
 
 
@@ -46,7 +55,7 @@ Je me nomme Antoine Schmerber-Perraud et je suis étudiant en 2ème année de Co
 
 - Ce projet consistait à faire un page internet d'un jeu qu'on a pu creer en groupe en début de première année. Il a été réalisé en HTML et CSS
 
-<div style="margin-top: 50px;"></div>
+[&nbsp;](#)
 
 
 ## Contact & Réseaux sociaux
@@ -54,7 +63,7 @@ Je me nomme Antoine Schmerber-Perraud et je suis étudiant en 2ème année de Co
 - [Twitter](https://twitter.com/SchmerberP19106)
 - [LinkedIn](https://www.linkedin.com/in/antoineschmerberperraud/)
 
-<div style="margin-top: 50px;"></div>
+[&nbsp;](#)
 
 
 ## Dons
