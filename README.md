@@ -6,7 +6,10 @@ Etudiant en développement web
 Je me nomme Antoine Schmerber-Perraud et je suis étudiant en 2ème année de Coding et Digital Innovation à l'IIM. J'aime beaucoup coder, ça me permet d'être dans ma bulle et c'est plutot cool de coder des heures sans être dérangé. J'aimerai devenir dévellopeur full stack pour le moment mais je ne me ferme aucune porte et je suis ouvert à tout ce que je fvais découvrir pendant les prochaines années. 
 
 
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=ANtoineSP01&show_icons=true&theme=radical)
+<div align="center">
+    ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=ANtoineSP01&show_icons=true&theme=radical)
+</div>
+
 
 ## 🚀 Technologies & Langages
 
@@ -36,10 +39,11 @@ Je me nomme Antoine Schmerber-Perraud et je suis étudiant en 2ème année de Co
 
 
 ## Projets
-### <span style="color: purple;">[Lyfe](https://github.com/AntoineSP01/Projet_Fin_Axe)</span>
+### <font color="purple">[Lyfe](https://github.com/AntoineSP01/Projet_Fin_Axe)</font>
+
 - Il s'agit d'un projet de fin d'année qui permettait de savoir si je pouvais passer en année supérieur ou pas. Le but de ce projet était de faire un site de micro-blogging de type twitter, avec commme fonction le post, page profil, suppression, recherche, etc... Il a été fait avec les technologie suivantes : HTML, CSS, Javascript et PHP
 
-### <span style="color: purple;">[Oberfighter](https://github.com/AntoineSP01/ProjectEpicDigitalDay)</span>
+### <font color="purple">[Oberfighter](https://github.com/AntoineSP01/ProjectEpicDigitalDay)</font>
 - Ce projet consistait à faire un page internet d'un jeu qu'on a pu creer en groupe en début de première année. Il a été réalisé en HTML et CSS
 
 
