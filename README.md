@@ -4,7 +4,7 @@
 
 
 ## À propos de moi
-Je me nomme Antoine Schmerber-Perraud et je suis étudiant en 2ème année de Coding et Digital Innovation à l'IIM. J'aime beaucoup coder, ça me permet d'être dans ma bulle et c'est plutot cool de coder des heures sans être dérangé. J'aimerai devenir dévellopeur full stack pour le moment mais je ne me ferme aucune porte et je suis ouvert à tout ce que je fvais découvrir pendant les prochaines années.
+Je me nomme Antoine Schmerber-Perraud et je suis étudiant en 2ème année de Coding et Digital Innovation à l'IIM. J'aime beaucoup coder, ça me permet d'être dans ma bulle et c'est plutot cool de coder des heures sans être dérangé. J'aimerai devenir développeur full stack pour le moment mais je ne me ferme aucune porte et je suis ouvert à tout ce que je vais découvrir pendant les prochaines années.
 
 [&nbsp;&nbsp;](#)
 
